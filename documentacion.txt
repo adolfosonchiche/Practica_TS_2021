@@ -1,0 +1,34 @@
+HOLA MUNDO EN PHP, HTML, CSS Y JS
+
+PHP 
+es un lenguaje de scripting del lado del servidor que se usa principalmente 
+para construir aplicaciones basadas en la web. Estas pueden incluir desde un sitio web 
+para un blog muy simple hasta un sitio web de comercio electrónico completo. 
+De hecho, PHP es uno de los lenguajes de scripting del lado del servidor más populares para el desarrollo web.
+el lenguaje de programación PHP, creará y codificará archivos con la  extensión .php
+
+HTML
+(Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. 
+Define el significado y la estructura del contenido web. 
+utiliza "marcas" para etiquetar texto, imágenes y otro contenido para mostrarlo en un navegador Web. 
+Las  marcas HTML incluyen "elementos" especiales como <head>, <title>, <body>, <header>, <footer>, <article>, <section>, 
+<p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>,
+<video>, <ul>, <ol>, <li> y muchos otros.
+
+CSS
+(en inglés Cascading Style Sheets) es lo que se denomina lenguaje de hojas de estilo en cascada 
+y se usa para estilizar elementos escritos en un lenguaje de marcado como HTML.
+
+JS
+es el único lenguaje de programación que funciona en los navegadores de forma nativa (lenguaje interpretado sin necesidad de compilación).
+Por tanto se utiliza como complemento de HTML y CSS para crear páginas webs.
+
+APLICACIONES
+Hay dos maneras de ejecutar archivos PHP. La manera preferida de ejecutar archivos PHP es dentro de un servidor web como Apache, 
+Nginx o ISS; esto te permite ejecutar scripts de PHP desde tu navegador. ¡Así es como funcionan todos los sitios web en PHP.
+La otra manera es ejecutar scripts de PHP en la línea de comandos, y esto no requiere que establezcas un servidor web.
+
+
+https://soyrafaramos.com/que-es-javascript-para-que-sirve/
+https://code.tutsplus.com/es/tutorials/how-to-run-a-php-file--cms-34769
+
