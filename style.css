@@ -1,0 +1,137 @@
+/*
+* autor: @hectoradolfo
+*/
+
+/* estilos para mi pagina web */
+
+.button-submit {
+    color:black;
+    background-color: rgb(174, 228, 92);
+    box-shadow:4px 4px 4px 7px rgb(16, 22, 51);
+    display: table-cell;
+    width: 150px;
+    height: 50px;
+    font-size: 18px;
+    font-style: inherit;
+    border-style: unset;
+  }
+ 
+  
+  
+  .label {
+    /*display: flex;*/
+    justify-content: center;
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    padding: 10px 25px;
+    border-style: groove;
+    box-shadow:4px 4px 4px 7px chartreuse;
+    animation-name: label1;
+    animation-duration:20s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+  }
+
+  .label-dat {
+    justify-content: center;
+    color: black;
+    font-size: 16px;
+    background-color: rgb(75, 151, 151);
+
+    padding: 10px 21px;
+    border-style:groove;
+    
+  }
+
+  .input-dat {
+    display: block;
+    justify-content: center;
+    color: black;
+    font-size: 16px;
+   width: 300px;
+    padding: 10px 21px;
+    border-style:inset;
+  }
+
+  .label-img {
+    justify-content: center;
+    text-align: center;
+    color: rgb(124, 17, 17);
+    font-size: 10px;
+
+    padding: 8px 20px;
+    border-style:hidden;
+    box-shadow:2px 2px 2px 6px rgb(16, 67, 176);
+  }
+  
+    .input-text {
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-size: 10px;
+    padding: 11px 25px;
+    border-style:dashed;
+    box-shadow:10px 10px 3px 12px green;
+  }
+  
+  .div {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+
+  @keyframes label1 {
+    0% {background-color:  rgb(24, 71, 117);}
+    25% {background-color: aqua;}
+    50%  {background-color: chocolate;}
+    75% {background-color: darkslategray;}
+    background: linear-gradient(90deg, red 25px, orange 50px, yellow 100px, blue 250px, rgb(128, 153, 187) 10px);
+
+    
+  }
+  .hijo {
+    background-color: yellow;
+    padding: 15px;
+    margin: 90px;
+    justify-content: left;
+    /* IMPORTANTE */
+    display: flow-root;
+    float: left;
+  }
+
+  .hijo2 {
+    background-color: rgb(109, 161, 230);
+    padding: 20px;
+    margin: 80px;
+    justify-content: right;
+    /* IMPORTANTE */
+    display: flow-root;
+    float:  right;
+  }
+
+
+  .body_c {
+    /*display: flex;*/
+    justify-content: center;
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    padding: 10px 25px;
+    border-style:dashed;
+    box-shadow:8px 8px 8px 10px rgb(2, 2, 19);
+    animation-name: body_animation;
+    animation-duration:25s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+  }
+
+  @keyframes body_animation {
+    0% {background-color:  rgb(79, 155, 231);}
+    15% {background-color: aqua;}
+    25%  {background-color: chocolate;}
+    55% {background-color: rgb(125, 96, 102);}
+    75% {background-color: violet;}
+    95% {background-color: springgreen;}
+    
+  }
