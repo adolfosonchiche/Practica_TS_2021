@@ -1,6 +1,6 @@
 # Practica_TS_2021
 HOLA MUNDO PHP, HTML, CSS, JAVASCRIPT
 
-
+Ejecutar php con Xampp
 
 CURSO: TEORIA SISTEMAS 1
